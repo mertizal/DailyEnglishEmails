@@ -1,0 +1,12 @@
+[Unit]
+Description=bu servis emre baba hayratıdır
+
+[Service]
+Type=simple
+StandardOutput=journal
+ExecStart="/home/mert/gemini/dailyEnglishBot.py"
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=default.target

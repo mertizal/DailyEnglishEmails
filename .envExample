@@ -1,0 +1,7 @@
+GEMINI_API_KEY="gemini tokenınız"
+SENDER_MAIL_ADRES="gonderici mail adresi"
+MAIL_PASSWORD="gönderici mailin şifresi"
+DISCORD_BOT_TOKEN="dicord api token"
+RECIPIENT_EMAILS="alıcı mailler. tüm mailler virgül ile ayrılmalı."
+
+
